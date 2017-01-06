@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/eclipse/jdk/jre/lib/ext/jfxrt.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/fluent-hc-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpclient-cache-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpmime-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/poi-3.12/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/poi-3.12/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/poi-3.12/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/poi-3.12/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/poi-3.12/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/poi-3.12/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/json-org.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/eclipse/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
